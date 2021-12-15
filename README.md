@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CSempirica
 - 👀 I’m interested in learning about AI.
-- 🌱 I’m currently learning the basuc
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning the basics of AI
+- 💞️ I’m looking to collaborate on AI research projects for tnhe European Commission in health and skills.
 - 📫 How to reach me ...
 
 <!---
